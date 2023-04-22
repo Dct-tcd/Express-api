@@ -1,0 +1,41 @@
+[
+    {
+      "id": 9650,
+      "uid": "0d4d80f5-f0c5-4172-b6ef-8724cd3af3b1",
+      "brand": "Tsingtao",
+      "name": "Samuel Smith’s Imperial IPA",
+      "style": "Vegetable Beer",
+      "hop": "Warrior",
+      "yeast": "2035 - American Lager",
+      "malts": "Munich",
+      "ibu": "33 IBU",
+      "alcohol": "7.5%",
+      "blg": "13.9°Blg"
+    },
+    {
+      "id": 7567,
+      "uid": "5b048a55-bcc8-47da-aafc-47da56d3ff20",
+      "brand": "Birra Moretti",
+      "name": "Yeti Imperial Stout",
+      "style": "Bock",
+      "hop": "Amarillo",
+      "yeast": "1099 - Whitbread Ale",
+      "malts": "Roasted barley",
+      "ibu": "78 IBU",
+      "alcohol": "3.9%",
+      "blg": "16.7°Blg"
+    },
+    {
+      "id": 1839,
+      "uid": "c0b169c2-052c-4449-bbee-c34ae0509490",
+      "brand": "Fosters",
+      "name": "Samuel Smith’s Imperial IPA",
+      "style": "Stout",
+      "hop": "Golding",
+      "yeast": "1968 - London ESB Ale",
+      "malts": "Chocolate",
+      "ibu": "82 IBU",
+      "alcohol": "3.3%",
+      "blg": "17.2°Blg"
+    }
+  ]
